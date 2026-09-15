@@ -1,0 +1,43 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "GrubHub_Taxi_Like",
+   "GUID": "{61D1097F-EDB7-4BB6-8A67-45AAC7A7393B}",
+   "Generator": "2025.1.10.9233"
+  },
+  "CacheRoot": "../../../../../../../WwiseProjects/GrubHub_Taxi_Like/.cache",
+  "Platforms": [
+   {
+    "Name": "Linux",
+    "GUID": "{CB3EF4D7-32B7-4433-ADB5-721F3EF2C1FC}",
+    "BasePlatform": "Linux",
+    "BasePlatformGUID": "{BD0BDF13-3125-454F-8BFD-319537169F81}",
+    "Path": "../../../../../../../WwiseProjects/GrubHub_Taxi_Like/GeneratedSoundBanks/Linux"
+   },
+   {
+    "Name": "Mac",
+    "GUID": "{CB437D98-FAC2-40A1-A65A-13BF8F6028B6}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "../../../../../../../WwiseProjects/GrubHub_Taxi_Like/GeneratedSoundBanks/Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{DA1ED91A-A233-4F69-806F-C72361745073}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../../../../../../WwiseProjects/GrubHub_Taxi_Like/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{13485340-93E8-451F-AEC1-9040EC6BCBD9}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{0601A30B-06B1-B191-BABE-3D696FE37322}"
+ }
+}
